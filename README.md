@@ -1,2 +1,2 @@
-# students performance with lasso-regression 
-# numerical analysis project
+# Students performance with Lasso Regression 
+ Numerical analysis project
